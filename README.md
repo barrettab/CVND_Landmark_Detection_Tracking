@@ -27,7 +27,7 @@ __Notebook 3__ : Landmark Detection and Tracking
 
 1. Clone the repository, and navigate to the downloaded folder.
 ```
-git clone https://github.com/pecia6/Landmark-Detection-Tracking-SLAM.git
+
 cd Landmark-Detection-Tracking-SLAM
 ```
 
